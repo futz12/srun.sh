@@ -17,7 +17,11 @@ pure shell script to login srun
 
 ##  环境要求
 在运行此脚本之前，请确保你的系统上安装了以下命令行工具。这些工具在绝大多数系统中都是预装的。
+
 bash
+
 curl
+
 openssl (用于 MD5-HMAC 加密)
+
 标准的 GNU Coreutils: grep, sed, cut, tr, od, head, date 等。
