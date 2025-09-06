@@ -3,7 +3,7 @@ pure shell script to login srun
 纯粹的shell实现深澜系统的登录（除了使用curl openssl）
 
 本项目借鉴自karin0/sdusrun 与 SadPencil/sdunetd
-在山东大学中心校区完成实验
+在山东大学中心校区完成实验，注意由于山大绑定了MAC，需要在系统中解除MAC绑定才能正常退出登录。
 
 学长们的项目都很好，但是有个问题，都需要编译为二进制文件。
 出于两个方向考虑：
